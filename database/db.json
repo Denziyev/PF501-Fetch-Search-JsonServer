@@ -1,0 +1,29 @@
+{
+    "users":[
+        {
+            "name":"Fidan",
+            "age":19,
+            "city":"Chicago"
+        },
+        {
+            "name":"Narmin",
+            "age":19,
+            "city":"New York"
+        },
+        {
+            "name":"Leyla",
+            "age":18,
+            "city":"Singapure"
+        },
+        {
+            "name":"Leylush",
+            "age":26,
+            "city":"Madrid"
+        },
+        {
+            "name":"Ayaz",
+            "age":18,
+            "city":"Columbia"
+        }
+    ]
+}
